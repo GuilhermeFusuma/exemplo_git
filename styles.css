@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+}
+
+.vermelho {
+    color: red;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-flow: column   ;
+}
