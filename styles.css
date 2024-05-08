@@ -11,3 +11,7 @@ body {
     align-items: center;
     flex-flow: column   ;
 }
+
+.azul {
+    color: blue;
+}
